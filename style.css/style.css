@@ -1,0 +1,91 @@
+
+
+
+/* Planos de Fundo */
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+}
+header{
+    background-color: #d29d3f;
+    height: 115px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+
+    }
+
+.longa-permanencia{
+    background-image: url('../imagens/bloco1_permanencia.jpg');
+    background-position: bottom 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.fundo-carousel{
+    background-color: rgba(0,0,0,.5);
+    height: 100%;
+    width: 100%;
+    color: white;
+}
+
+.carousel-item{
+    background-size: cover;
+    position: relative;
+}
+
+.centro-dia{
+    background-image: url('../imagens/bloco2_centrodia-1024x565.jpg');
+    background-position: bottom 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.desospilizacao{
+    background-image: url('../imagens/jardim-inverno-1024x664.jpg');
+    background-position: bottom 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.diferenciais{
+    background-color: rgb(153 209 192 / 30%) !important;
+}
+.galeria{
+    background-color: rgb(153 209 192 / 30%) !important;
+}
+.contato{
+    background-color: rgb(153 209 192 / 30%) !important;
+}
+
+/* --------------------------------- */
+/*footer*/  
+footer {
+    background: black;
+    padding: 50px 0 20px 0;
+    position: relative;
+}
+footer h4 {
+    color: #919496;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+footer .navbar-nav a {
+    color: white;
+    font-size: 1.1rem;
+}
+footer .navbar-nav a:hover {
+    color: #9bf0e1;
+    text-decoration: none;
+}
+footer ul {
+    list-style: none;
+}
+footer ul li {
+    float: right;
+    margin: 0 5px;
+    
+}
+
+center {
+    text-align: center;
+}
+/* --------------------- FIM DO FOOTER ---------------------*/
